@@ -23,6 +23,10 @@ if(c==3):
     
 if(c==4):
 
-    print(f"the division is:{a*b}")    
+    print(f"the division is:{a*b}")   
+    
+else:
+   
+   print("invalid")
     
     
